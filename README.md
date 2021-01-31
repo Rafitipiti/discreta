@@ -1,1 +1,2 @@
-# discreta
+# Matemática Discreta
+- Trabajo parcial
